@@ -6,6 +6,8 @@
 
 This comprehensive dashboard provides valuable insights into retail performance, focusing on key metrics such as total sales, total profit, total quantity, total orders, and profit margin. Through carefully crafted charts, strategic insights, and dynamic slicers, this dashboard offers a user-friendly interface for efficient data analysis.
 
+---
+
 ## Dashboard Preview
 
 ![AccioJob Retail Analysis Dashboard](https://github.com/virajbhutada/AccioJob_Retail_Analysis_Excel/assets/143819712/8275a8f8-08b4-483f-8f3b-7273f399d01c)
@@ -63,9 +65,13 @@ This comprehensive dashboard provides valuable insights into retail performance,
 3. **Slicers:**
    - Utilize slicers to filter data based on ship mode, customer segment, specific years, and geographical regions.
 
+---
+
 ## Contribute
 
-Contributions to enhance the dashboard or fix issues are welcomed. Feel free to submit pull requests.
+Contributions to enhance the dashboard or fix issues are welcomed. Feel free to submit [pull requests](https://github.com/virajbhutada/AccioJob_Retail_Analysis_Excel/pulls).
+
+---
 
 ## License
 

@@ -1,4 +1,4 @@
-# AccioJob Retail Analysis Dashboard - Excel
+# AccioJob's Retail Analysis - MS Excel
 
 ---
 

@@ -1,12 +1,18 @@
 # AccioJob Retail Analysis Dashboard - Excel
 
+---
+
 ## Overview
 
-Welcome to the AccioJob Retail Analysis Dashboard in Excel. This comprehensive dashboard provides valuable insights into retail performance, focusing on key metrics such as total sales, total profit, total quantity, total orders, and profit margin. Through carefully crafted charts, strategic insights, and dynamic slicers, this dashboard offers a user-friendly interface for efficient data analysis.
+This comprehensive dashboard provides valuable insights into retail performance, focusing on key metrics such as total sales, total profit, total quantity, total orders, and profit margin. Through carefully crafted charts, strategic insights, and dynamic slicers, this dashboard offers a user-friendly interface for efficient data analysis.
 
 ## Dashboard Preview
 
 ![AccioJob Retail Analysis Dashboard](https://github.com/virajbhutada/AccioJob_Retail_Analysis_Excel/assets/143819712/8275a8f8-08b4-483f-8f3b-7273f399d01c)
+
+*Experience data-driven decision-making with our meticulously designed AccioJob Retail Analysis Dashboard. Uncover insights, analyze trends, and make informed business decisions effortlessly.*
+
+---
 
 ## Key Features
 
@@ -17,17 +23,23 @@ Welcome to the AccioJob Retail Analysis Dashboard in Excel. This comprehensive d
    - Total Orders
    - Profit Margin
 
+---
+
 ### 2. Visualizations
    - **Category Quantity Breakdown:** Visual representation of quantity distribution across different categories.
    - **Category Distribution:** A detailed chart showcasing the distribution of products across various categories.
    - **Strategic Insights - Top 5 Subcategories:** Analyzing and extracting strategic insights from the top-performing subcategories.
    - **Strategic Insights - Bottom 5 Subcategories:** Assessing and identifying opportunities for improvement from the bottom-performing subcategories.
 
+---
+
 ### 3. Slicers
    - **Ship Mode:** Filter data based on the preferred shipping mode.
    - **Segment:** Analyze data specific to different customer segments.
    - **Years:** Dynamically view data for specific years.
    - **Region:** Filter data based on geographical regions.
+
+---
 
 ## Getting Started
 

@@ -54,6 +54,8 @@ This comprehensive dashboard provides valuable insights into retail performance,
 
 3. Explore the various sheets, charts, and slicers to gain insights into different aspects of retail performance.
 
+---
+
 ## How to Use
 
 1. **Sales Metrics:** Review the total sales, profit, quantity, orders, and profit margin displayed prominently on the dashboard.

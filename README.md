@@ -83,4 +83,4 @@ Thank you for using the AccioJob Retail Analysis Dashboard. We hope this tool pr
 
 ---
 
-Author: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+## Author: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)

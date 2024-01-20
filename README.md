@@ -12,7 +12,7 @@ This comprehensive dashboard provides valuable insights into retail performance,
 
 ![AccioJob Retail Analysis Dashboard](https://github.com/virajbhutada/AccioJob_Retail_Analysis_Excel/assets/143819712/8275a8f8-08b4-483f-8f3b-7273f399d01c)
 
-*Experience data-driven decision-making with our meticulously designed AccioJob Retail Analysis Dashboard. Uncover insights, analyze trends, and make informed business decisions effortlessly.*
+*Experience data-driven decision-making with my meticulously designed AccioJob Retail Analysis Dashboard. Uncover insights, analyze trends, and make informed business decisions effortlessly.*
 
 ---
 
